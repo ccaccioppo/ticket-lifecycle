@@ -27,16 +27,16 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/0yjALrc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/OEmRXCQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4PcZF1i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kHKjFPx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Ryu, one of our customers, is opening a new ticket under the Business Critical Outage help topic. The issue reported is that the CRM software is down. 
+Kyle, one of our customers, is opening a new ticket under the Personal Computer Issue help topic. The issue reported is that the endusers' Laptop unable to connect to office Wi-Fi. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/BNXolkz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VYw7SJG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Agents can view live tickets in the Agent Panel. Queue managers will assign priority tickets to the appropriate agents and ensure proper SLAs are applied.
@@ -44,7 +44,7 @@ Agents can view live tickets in the Agent Panel. Queue managers will assign prio
 <br />
 
 <p>
-<img src="https://i.imgur.com/4FvPpMN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SpOIX9v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In this example, the ticket's priority is set to Emergency due to its potential impact on a critical business area. The SLA plan has been updated accordingly, and the ticket is assigned to a top-level technician. In some ticketing systems, customers can set their own SLA plans.
@@ -52,9 +52,10 @@ In this example, the ticket's priority is set to Emergency due to its potential 
 <br />
 
 <p>
-<img src="https://i.imgur.com/rNycELQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0sDueWN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/m3pVWv5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The ticket was closed after identifying the root cause as personal networking issues on the customer’s end. The status was set to Resolved, and an internal note was added to inform Steve Lang that the customer was upset. It emphasized handling the situation with urgency and empathy during follow-up.
+The ticket was closed after identifying the root cause as personal networking issues on the customer’s end. The status was set to Resolved, and an internal note was added to inform Carlo that the customer was upset. It emphasized handling the situation with urgency and empathy during follow-up.
 </p>
 <br />
